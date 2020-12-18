@@ -1,0 +1,45 @@
+seccion 8 
+
+//array
+https://play.golang.org/
+
+//slice valores del mismo tipo 
+https://play.golang.org/p/NrrCbob9oTq
+
+//for range slice
+https://play.golang.org/p/5uf9zB8jKF8
+
+//dividir slice
+https://play.golang.org/p/8ru1gCamue2
+
+//append agregar elementos a un slice 
+https://play.golang.org/p/lDhtSc-uMFQ
+
+//eliminar elementos de un slice 
+https://play.golang.org/p/5FvEcmkGnov
+
+//slice make
+https://play.golang.org/p/tl7aKSXfXLL
+
+//slice o arreglo multidimencional 
+https://play.golang.org/p/9Wt_rV59s0g
+
+//SLICE ARREGO SUBYACENTE
+https://play.golang.org/p/fjkQaDPD-XF
+
+//mapas y condicionales para retorno de mapas
+https://play.golang.org/p/odhUwYE-HPr
+
+//agregar elemento con range
+https://play.golang.org/p/H4WscpFE-du
+
+//borrar elementos de un mapa
+https://play.golang.org/p/0UM4VCfuZCd
+
+
+
+
+
+
+
+

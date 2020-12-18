@@ -1,0 +1,33 @@
+package main
+
+import (
+	"fmt"
+)
+
+//variable global a nivel de paquete var para  valor cero
+var z int
+
+// declaracion de  variables con tipo de datos
+var w int
+
+func main() {
+	//operacion de asignacion corta
+	x := 5 + 2
+	y := 50.5
+	//operador de asignacion
+	x = 3
+
+	//asignacion de  variable
+	w = 14
+	//uso de tipos de variables
+	fmt.Println("valor de w :", w)
+
+	//impresion
+	fmt.Println("valor de x+y :")
+	fmt.Println("valor x:", x, "valor y:", y)
+	numero()
+
+}
+func numero() {
+	fmt.Println(z)
+}

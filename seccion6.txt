@@ -1,0 +1,31 @@
+//for init ciclo for
+https://play.golang.org/p/LEH6L9TR99u
+
+
+//for anidado 
+https://play.golang.org/p/tPwEWu-RBwo
+
+//tipos de declaraciones de for
+https://play.golang.org/p/qhqiW0BUIpN
+
+//break y continue numeros pares de 0 a 100
+https://play.golang.org/p/zHc6gw5DB9o
+
+//imprimir ansi
+https://play.golang.org/p/bic7Mk67bjH
+
+// declaracion de if  imprime solo por verdadero
+https://play.golang.org/p/3U0oZLuNwLD
+
+
+// condicional if else   else if 
+https://play.golang.org/p/3SGlj5Yw7DL
+
+//ciclo de condicion pares for
+https://play.golang.org/p/wrtP7nbkS1W
+
+
+// decaracion switch
+https://play.golang.org/p/b9090FQbHMF
+
+//switch logicos condicionales o booleanos

@@ -1,0 +1,14 @@
+seccion 10
+
+//strucs estructuras de datos
+https://play.golang.org/p/GwUypQfzGxa
+
+//structs embebidos o anidados captura interna y externa de acceso
+https://play.golang.org/p/i4tmLjZilBl
+
+//structs anonimos lo mismo pero directo al main
+https://play.golang.org/p/dRJ8I_pkGNQ
+
+//house aclaracion 
+https://play.golang.org/p/NMzj9PDiI2k
+

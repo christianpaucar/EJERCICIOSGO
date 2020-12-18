@@ -1,0 +1,5 @@
+grpc es orientado a micro servicios 
+protoc --go_out=. --go_opt=paths=source_relative dummy/dummypb/dummypb.proto
+
+
+protoc --go_out=. --go_opt=paths=source_relative hello/hellopb/hellopb.proto

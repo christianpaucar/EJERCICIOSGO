@@ -1,0 +1,11 @@
+//ejercicio practico 2 ninja 1
+
+https://play.golang.org/p/A6S1em2paDD
+
+//ejercicio practico 3 ninja 1
+https://play.golang.org/p/DKvTu8HRAof
+
+//ejercicio practico 4 y 5 ninja 1
+https://play.golang.org/p/pV_Fhz3MGfu
+
+//ejercicio practico 4 y 5 ninja 1

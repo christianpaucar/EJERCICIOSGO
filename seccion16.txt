@@ -1,0 +1,22 @@
+//APLICACION
+
+//JSON MARSHAL de un struct a json
+https://play.golang.org/p/8a0RyP6r8jc
+
+//JSON UNMARSHAL 
+https://play.golang.org/p/aw2O9Xq12FW
+
+
+//interfaz writer
+https://play.golang.org/p/3Txh-dKQBf
+
+//short
+https://play.golang.org/p/sEDu6v4tchx
+
+//sort personalizado
+https://play.golang.org/p/F0GaUvZ61_V
+
+//bcrypt
+revisar logueo
+
+

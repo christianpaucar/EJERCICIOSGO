@@ -1,0 +1,29 @@
+//ejercicio 1 ninja 3
+https://play.golang.org/p/9_0VZHnfsrZ
+
+//practica 2  ninja 3 imprimir avecedario utf 8
+https://play.golang.org/p/5zoCjvZHMtZ
+
+//practica 3 ninja 3 imprimir años desde nacimiento
+https://play.golang.org/p/BOi6q3SBVaA
+
+//practica 4 ninja 3 for sin condicionales con break
+https://play.golang.org/p/yCawsrSN4bZ
+
+//practico 5 ninja 3 for mod 4
+https://play.golang.org/p/3bBqXq9G-FY
+
+//practico 6 ninja 3 if en accion 
+https://play.golang.org/p/gGbiiAUNTxP
+
+//practico 7 ninja 3
+https://play.golang.org/p/K-241zTXYiP
+
+//practico 8 ninja 3 switch por verdadero sin sentencias
+https://play.golang.org/p/sqoUVeOeSu1
+
+//practico 9 switch con string
+https://play.golang.org/p/ad_aBy9nE0S
+
+//practico 10 ninja 3 logica booll en impresiones
+https://play.golang.org/p/XM9rhDGz1sY

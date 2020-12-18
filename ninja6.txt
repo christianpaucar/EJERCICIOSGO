@@ -1,0 +1,34 @@
+ninja 6
+
+//practica  1 funciones de retorno 
+https://play.golang.org/p/KwYjw2EbOy0
+
+//practica 2 operaciones y retorno de funcion con slice
+https://play.golang.org/p/5-Dr7tJiq2P
+
+//practica 3 defer
+https://play.golang.org/p/fUrBGwHK52U
+
+//practica 4 funciones con identificador de metodo
+https://play.golang.org/p/4M0Za6egUCo
+
+//practica 5 interfaces con funciones
+https://play.golang.org/p/OSlbWitcCgD
+
+//practica 6 funcion anonima
+https://play.golang.org/p/7KjeZqdOJl4
+
+//practica 7 funcion anonima asiganda a una  variable 
+https://play.golang.org/p/gBZZk4T8uh1
+
+//practica 8 funcion que retorna otra funcion 
+https://play.golang.org/p/AOIRjh7Z7ob
+
+//practica 9 callbacks
+https://play.golang.org/p/cUF9_WARw2x
+
+//practico 10 clouser
+https://play.golang.org/p/iJpk3WYvyEP
+
+//practica 11
+saltar

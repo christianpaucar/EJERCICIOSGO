@@ -1,0 +1,10 @@
+seccion 14
+
+// punteros
+https://play.golang.org/p/3NVz043Txst
+
+//punteros 2
+https://play.golang.org/p/6cSAeNzQYle
+
+//punteros 3 method sets
+

@@ -1,0 +1,13 @@
+NINJA 5
+
+//practica 1 struct con slice
+https://play.golang.org/p/0b97J3d29ad
+
+//practico 2 almacenar valores de persona en un mapa 
+https://play.golang.org/p/h5Uf4CwZt2S
+
+//practico 3 structs embebidos
+https://play.golang.org/p/6ukrVNSxzxH
+
+//practica 4 struct no definido con slice y map
+https://play.golang.org/p/wj2x6uw-rQe

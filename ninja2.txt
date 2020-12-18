@@ -1,0 +1,20 @@
+//practica 1 ninja 2
+https://play.golang.org/p/J1PEsNEqXKx
+
+//practica dos ninja 2
+https://play.golang.org/p/HH-opdefEiR
+
+//ptactica 3 ninja 2
+https://play.golang.org/p/SNLj_gHWKfa
+
+//practica 4
+https://play.golang.org/p/jXqbBndyMyB
+
+//practica 5
+https://play.golang.org/p/sg6Hln2PAhC
+
+//practica 6
+https://play.golang.org/p/WlAnz82BM4Q
+
+//practica 7
+

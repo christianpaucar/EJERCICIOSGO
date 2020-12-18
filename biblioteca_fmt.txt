@@ -1,0 +1,24 @@
+package main
+
+import (
+	"fmt"
+)
+
+var a int
+var b string = "programa"
+
+func main() {
+
+	fmt.Printf("el valor de a es:%d\n", a)
+	fmt.Printf("el tipo de a es: %T\n", a)
+	fmt.Printf("el valor de b es:%s\n", b)
+	fmt.Printf("el tipo de b es: %T\n", b)
+	s1 := fmt.Sprint("el ", a, " dice hola mundo.")
+	fmt.Println(s1)
+	fmt.Printf("el tipo de s1 es: %T\n", s1)
+
+
+}
+
+
+//https://play.golang.org/p/b7-3oYdfQ4C

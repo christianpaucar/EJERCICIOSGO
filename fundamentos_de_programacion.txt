@@ -1,0 +1,26 @@
+fundamentos de programacion 
+
+
+// respuesta bool
+https://play.golang.org/p/3FkEEQTRTQF
+
+//tipos numericos int
+https://play.golang.org/p/et1Xx-XRNyL
+
+//tipo string 1
+https://play.golang.org/p/_Av42WsjdSq
+
+//tipo string 2
+https://play.golang.org/p/pJDouYa53cE
+
+//constantes y asignacion con tipo de dato creado
+https://play.golang.org/p/nOmMQ1AP6rM
+
+//iota
+https://play.golang.org/p/B_m80kW-9X9
+
+//bit shifting
+https://play.golang.org/p/1Fhq7xWqkNi
+
+
+

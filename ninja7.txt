@@ -1,0 +1,5 @@
+//ninja 7
+https://play.golang.org/p/09F7s_4-BNa
+
+//struct con punteros
+https://play.golang.org/p/5zlt2VTPgB-

@@ -1,0 +1,64 @@
+seccion 12 funciones
+
+//sintaxis de  funciones 
+https://play.golang.org/p/ipztIR-jkSp
+
+//parametros variables en funciones  suma en range
+https://play.golang.org/p/hqqrs_8Sgdx
+
+//operador ...  en funciones 
+https://play.golang.org/p/S5XgGSIbp6B
+
+//diferir defer
+https://play.golang.org/p/5NKaB4pjKvB
+
+//metodos funciones con firma
+https://play.golang.org/p/pyZnXKrFVaJ
+
+//interfaz y polimorfismo 
+//parte 1
+https://play.golang.org/p/rkClAKy43f3
+//parte 2 switch reafirmacion de tipos
+https://play.golang.org/p/vdjbioXZWsn
+
+// funciones anonimas
+https://play.golang.org/p/vN7VvHb2z6q
+
+//expresion funcion
+https://play.golang.org/p/MnO2m18A70X
+
+//retornar  funciones  retornos
+https://play.golang.org/p/Gp9vHeRUqAk
+
+//callbacks
+https://play.golang.org/p/Txk6WZd0v7P
+
+//closure clausura existencia de valores en memoria
+https://play.golang.org/p/KxyYxXpfsIu
+
+//recursividad
+https://play.golang.org/p/RLP2TdNfJNU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+ninja 8
+
+//practica 1 marshal
+
+https://play.golang.org/p/XgWroaSoq70
+
+
+//practico 2
+https://play.golang.org/p/Tgg7bXIjD-R
+
+//practica 3 encode para mandar json al cable
+https://play.golang.org/p/mpc3Md_QHT9
+
+//practica 4
+https://play.golang.org/p/0wSkyEkUU0E
+
+//practico 5
+https://play.golang.org/p/gz1kxHO4dlh

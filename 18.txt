@@ -1,0 +1,9 @@
+//waitgroup
+https://play.golang.org/p/FeKbFz0B_GD
+
+//method sets
+
+//documentacion
+https://play.golang.org/p/lBKFKCwrue
+
+//condicion race

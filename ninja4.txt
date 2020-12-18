@@ -1,0 +1,38 @@
+//ninja  4
+
+
+//practica 1 ninja 4 array 
+https://play.golang.org/p/gOHNKpkODOg
+
+https://play.golang.org/p/cj8hV7kkVc-
+
+//practica 2 ninja 4
+https://play.golang.org/p/fBEuBk0qCkm
+
+//practica 3 ninja 4 dividir un slice con :
+https://play.golang.org/p/qkWaZEw8q6N
+
+//practica 4 agregar datos a un slide
+https://play.golang.org/p/eQiC_LYxuD1
+
+//practica 5 eliminar de un slice con append ...
+https://play.golang.org/p/KZCNgqA2ncG
+
+//practica 6 ninja 4 slide make listado fro tradicional
+https://play.golang.org/p/IQBAA4KrhQx
+
+//practica 7 slice multi dimencional 
+https://play.golang.org/p/e41I9dvtKmb
+
+//practica 8 ninja 4 -mapas resentacion iterativa for range
+https://play.golang.org/p/CsotmmqJ7cp
+
+//practico 9 AGREGAR ELEMENTO A UN MAPA
+https://play.golang.org/p/eTIzogSRw67
+
+//practico 10 eliminar datos de un mapa
+https://play.golang.org/p/aPj_K2KlWQt
+
+
+
+
